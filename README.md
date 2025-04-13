@@ -30,7 +30,7 @@ npm install
 ```
 
 ```bash
-node start
+npm start
 ```
 
 ```bash
